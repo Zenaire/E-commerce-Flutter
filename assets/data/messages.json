@@ -1,0 +1,188 @@
+{
+    "messages": [
+        {
+            "id": "msg_001",
+            "chatId": "chat_001",
+            "sender": "customer",
+            "text": "Halo kak, iPhone 15 masih ready?",
+            "sentAt": "2026-10-14T08:05:00+07:00",
+            "productId": "prod_001"
+        },
+        {
+            "id": "msg_002",
+            "chatId": "chat_001",
+            "sender": "seller",
+            "text": "Halo kak! Masih ready yaa 😊",
+            "sentAt": "2026-10-14T08:06:00+07:00",
+            "productId": "prod_001"
+        },
+        {
+            "id": "msg_003",
+            "chatId": "chat_001",
+            "sender": "customer",
+            "text": "Kalau dikirim bisa sampai sebelum aku lulus kuliah?",
+            "sentAt": "2026-10-14T08:10:00+07:00",
+            "productId": "prod_001"
+        },
+        {
+            "id": "msg_004",
+            "chatId": "chat_001",
+            "sender": "seller",
+            "text": "Kalau alamatnya benar, insyaallah kak. Kalau lulusnya yang dikejar, itu beda departemen 😭",
+            "sentAt": "2026-10-14T08:15:00+07:00",
+            "productId": "prod_001"
+        },
+        {
+            "id": "msg_005",
+            "chatId": "chat_002",
+            "sender": "customer",
+            "text": "Bang, laptop ini kuat buat coding?",
+            "sentAt": "2026-10-14T07:40:00+07:00",
+            "productId": "prod_003"
+        },
+        {
+            "id": "msg_006",
+            "chatId": "chat_002",
+            "sender": "seller",
+            "text": "Kuat banget bang, buat Flutter aman.",
+            "sentAt": "2026-10-14T07:42:00+07:00",
+            "productId": "prod_003"
+        },
+        {
+            "id": "msg_007",
+            "chatId": "chat_002",
+            "sender": "customer",
+            "text": "Kalau buat menjalankan hidup yang penuh bug?",
+            "sentAt": "2026-10-14T07:48:00+07:00",
+            "productId": "prod_003"
+        },
+        {
+            "id": "msg_008",
+            "chatId": "chat_002",
+            "sender": "seller",
+            "text": "Buat coding kuat, buat overthinking juga kuat bang 😭",
+            "sentAt": "2026-10-14T07:52:00+07:00",
+            "productId": "prod_003"
+        },
+        {
+            "id": "msg_009",
+            "chatId": "chat_003",
+            "sender": "customer",
+            "text": "Headphone ini bisa bikin suara dunia luar hilang?",
+            "sentAt": "2026-10-13T21:20:00+07:00",
+            "productId": "prod_005"
+        },
+        {
+            "id": "msg_010",
+            "chatId": "chat_003",
+            "sender": "seller",
+            "text": "Noise cancelling-nya membantu meredam suara sekitar ya kak, bukan menghilangkan semuanya.",
+            "sentAt": "2026-10-13T21:25:00+07:00",
+            "productId": "prod_005"
+        },
+        {
+            "id": "msg_011",
+            "chatId": "chat_003",
+            "sender": "customer",
+            "text": "Oalah, kirain bisa mute suara tetangga karaoke 😔",
+            "sentAt": "2026-10-13T21:28:00+07:00",
+            "productId": "prod_005"
+        },
+        {
+            "id": "msg_012",
+            "chatId": "chat_003",
+            "sender": "seller",
+            "text": "Bisa kak, dunia luar langsung mode mute 🤫",
+            "sentAt": "2026-10-13T21:30:00+07:00",
+            "productId": "prod_005"
+        },
+        {
+            "id": "msg_013",
+            "chatId": "chat_004",
+            "sender": "customer",
+            "text": "Bang, power bank ini bisa ngecas semangat hidup?",
+            "sentAt": "2026-10-13T18:55:00+07:00",
+            "productId": "prod_008"
+        },
+        {
+            "id": "msg_014",
+            "chatId": "chat_004",
+            "sender": "seller",
+            "text": "Kalau baterai HP bisa kak. Kalau semangat, kami ada promo hari ini 😭",
+            "sentAt": "2026-10-13T19:00:00+07:00",
+            "productId": "prod_008"
+        },
+        {
+            "id": "msg_015",
+            "chatId": "chat_004",
+            "sender": "customer",
+            "text": "Boleh juga bang, promo berapa?",
+            "sentAt": "2026-10-13T19:03:00+07:00",
+            "productId": "prod_008"
+        },
+        {
+            "id": "msg_016",
+            "chatId": "chat_004",
+            "sender": "seller",
+            "text": "Bukan buat ngecas kehidupan ya kak 😔",
+            "sentAt": "2026-10-13T19:05:00+07:00",
+            "productId": "prod_008"
+        },
+        {
+            "id": "msg_017",
+            "chatId": "chat_005",
+            "sender": "customer",
+            "text": "Keyboard ini cocok buat ngetik tugas?",
+            "sentAt": "2026-10-13T16:30:00+07:00",
+            "productId": null
+        },
+        {
+            "id": "msg_018",
+            "chatId": "chat_005",
+            "sender": "seller",
+            "text": "Cocok bang, nyaman buat kerja dan belajar.",
+            "sentAt": "2026-10-13T16:35:00+07:00",
+            "productId": null
+        },
+        {
+            "id": "msg_019",
+            "chatId": "chat_005",
+            "sender": "customer",
+            "text": "Kalau tugasnya belum dikerjain tapi keyboard-nya udah dibeli?",
+            "sentAt": "2026-10-13T16:38:00+07:00",
+            "productId": null
+        },
+        {
+            "id": "msg_020",
+            "chatId": "chat_005",
+            "sender": "seller",
+            "text": "Bisa bang, asal jangan dipake ngetik skripsi 800 halaman sehari 💀",
+            "sentAt": "2026-10-13T16:40:00+07:00",
+            "productId": null
+        },
+        {
+            "id": "msg_021",
+            "chatId": "chat_006",
+            "sender": "customer",
+            "text": "Kak, barangnya masih ada?",
+            "sentAt": "2026-10-12T14:10:00+07:00",
+            "productId": null
+        },
+        {
+            "id": "msg_022",
+            "chatId": "chat_006",
+            "sender": "seller",
+            "text": "Masih ada kak, silakan dicek 😊",
+            "sentAt": "2026-10-12T14:15:00+07:00",
+            "productId": null
+        },
+        {
+            "id": "msg_023",
+            "chatId": "chat_006",
+            "sender": "customer",
+            "text": "Stok masih ada kak. Dompetnya juga masih ada? 😭",
+            "sentAt": "2026-10-12T14:20:00+07:00",
+            "productId": null
+        }
+    ]
+}
